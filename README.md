@@ -23,9 +23,9 @@ This application is designed to analyze job postings data from a CSV file, utili
 ## Running the Application
 1. **Open the Google Colab **
    - Go to Google Colab.
-    -Click on "Open Notebook".
-    -In the "Open" tab, click on "Upload
+   - Click on "Open Notebook".
+   - In the "Open" tab, click on "Upload
 3. **Import the Dataset**
    - In the left-hand sidebar, click on the "Files" tab.
-   -Click the "Upload" button and select the dice_com-job_us_sample.csv file from your local system.
+   - Click the "Upload" button and select the dice_com-job_us_sample.csv file from your local system.
 5. **Execute the code**
